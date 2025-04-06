@@ -108,6 +108,10 @@ body {
   margin-top: 1rem;
 }
 
+.secondary__imagem {
+  margin-left: 4.375rem;
+}
+
 .dispositivos {
   text-align: center;
 }
